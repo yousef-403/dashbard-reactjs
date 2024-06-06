@@ -1,0 +1,30 @@
+.login{
+    background-color: #28322a;
+}
+.login .login-container{
+    max-width: 100%;
+   
+}
+.login .image{
+   min-width: 100%;
+    height: 100vh;
+}
+.login .image img{
+    width: 100%;
+    height: 100%;
+}
+.login .login-form{
+    height: 100vh;
+   
+}
+.login-form .login-form-content{
+    width: 100%;
+}
+.login .login-title{
+    text-align: center;
+  padding: 20px;
+
+}
+
+
+

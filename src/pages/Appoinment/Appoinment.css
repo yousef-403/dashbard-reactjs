@@ -1,0 +1,4 @@
+.tableHeader tr th{
+    background-color: rgba(202, 202, 204,.5) ;
+    padding: .5rem;
+}
